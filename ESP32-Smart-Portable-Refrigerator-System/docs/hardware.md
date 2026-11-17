@@ -4,7 +4,7 @@
 
 | Component | Role |
 |---|---|
-| ESP32 development board | Controller (its onboard OLED is not used) |
+| ESP32 development board | Controller (its onboard OLED was used during testing, but not in the final demonstration and current prototype) |
 | DHT11 | Internal temperature and humidity |
 | 16x2 LCD with I2C backpack (0x27) | Display, mounted in the top panel |
 | Reed switch (2-wire) + magnet | Door open/closed detection |
