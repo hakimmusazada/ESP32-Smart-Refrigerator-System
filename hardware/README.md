@@ -2,7 +2,7 @@
 
 | File | Part | Size (W × D × H, mm) |
 |---|---|---|
-| [`refrigerator-body.stl`](hardware/3d-models/refrigerator-body.stl) | Body, with a top window for the LCD and a side opening for the Peltier assembly | 200 × 150 × 150 |
+| [`refrigerator-body.stl`](ESP32-Smart-Refrigerator-System/hardware/3d-models/refrigerator-body.stl) | Body, with a top window for the LCD and a side opening for the Peltier assembly | 200 × 150 × 150 |
 | [`refrigerator-door.stl`](refrigerator-door.stl) | Door, with handle and logo | 196 × 21 × 130 |
 | [`refrigerator-fully-assembled.stl`](refrigerator-fully-assembled.stl) | Body and door assembled (lighter mesh, for viewing) | 200 × 170.5 × 150 |
 
